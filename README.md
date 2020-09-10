@@ -1,6 +1,6 @@
 # ACM Research Coding Challenge (Fall 2020)
-By: Gowtham Santhakumar
-NetID: GXS180007
+1. By: Gowtham Santhakumar
+2. NetID: GXS180007
 ## Submission:
 1. main.py
 
