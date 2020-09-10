@@ -9,7 +9,7 @@ Submission:
 
 1. https://pythonprogramminglanguage.com/kmeans-elbow-method/
 2. https://datatofish.com/k-means-clustering-python/
-
+3. wikipedia.com
 
 ## No Collaboration Policy
 
