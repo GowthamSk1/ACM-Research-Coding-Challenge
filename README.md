@@ -1,5 +1,16 @@
 # ACM Research Coding Challenge (Fall 2020)
 
+
+Submission:
+1. main.py
+
+
+## Sources
+
+1. https://pythonprogramminglanguage.com/kmeans-elbow-method/
+2. https://datatofish.com/k-means-clustering-python/
+
+
 ## No Collaboration Policy
 
 **You may not collaborate with anyone on this challenge.** You _are_ allowed to use Internet documentation. If you _do_ use existing code (either from Github, Stack Overflow, or other sources), **please cite your sources in the README**.
