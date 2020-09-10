@@ -1,9 +1,10 @@
 # ACM Research Coding Challenge (Fall 2020)
 
-
-Submission:
+##Submission:
 1. main.py
 
+##Output:
+ ![Image of Output](Plot.PNG)
 
 ## Sources
 
